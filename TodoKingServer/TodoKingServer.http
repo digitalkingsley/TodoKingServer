@@ -1,0 +1,6 @@
+@TodoKingServer_HostAddress = http://localhost:5269
+
+GET {{TodoKingServer_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

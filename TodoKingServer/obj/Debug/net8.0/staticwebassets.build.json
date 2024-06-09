@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "u5kYiccRblIN91niTUOS7CslNTj7RkkOIntNAskBRaQ=",
+  "Source": "TodoKingServer",
+  "BasePath": "_content/TodoKingServer",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
